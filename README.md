@@ -1,10 +1,10 @@
-Johnny Coder
+Winnie A. Damayo
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+B. Rodriguez, Espina Village       email@example.com
+1st Street, House #9                 @twitter_handle
+Philippines                         1800 my-phone-nr
 -------------------     ----------------------------
 
 Education
